@@ -1,0 +1,6 @@
+git clone https://davidtobrise@bitbucket.org/bloomcraft/1mlabs.git
+
+Logo colors: #1F8915 
+Icon colors: 
+Text colors: #1F8915 
+Fonts: Allerta Stencil 
